@@ -10,6 +10,7 @@ Gamanza Game Chalange
   - small win
   - feature
   - maybe database support for winners. sure why not
+  - add fun play and real money play support?
 - create frontend app with mobile and desktop support
 - add pixi.js library
   - create basic assets and some winning animations
